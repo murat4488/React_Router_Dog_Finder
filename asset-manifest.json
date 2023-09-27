@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React_Router_Dog_Finder/static/css/main.d63cc813.css",
+    "main.js": "/React_Router_Dog_Finder/static/js/main.6607d9bc.js",
+    "static/js/787.681c1c89.chunk.js": "/React_Router_Dog_Finder/static/js/787.681c1c89.chunk.js",
+    "static/media/tubby.jpg": "/React_Router_Dog_Finder/static/media/tubby.f1c33de60d20d6b8a9b9.jpg",
+    "static/media/whiskey.jpg": "/React_Router_Dog_Finder/static/media/whiskey.7650f3f2b68e4bebacaa.jpg",
+    "static/media/duke.jpg": "/React_Router_Dog_Finder/static/media/duke.a2a605e8b55545c21c28.jpg",
+    "static/media/perry.jpg": "/React_Router_Dog_Finder/static/media/perry.26aa759591c047a1c58c.jpg",
+    "index.html": "/React_Router_Dog_Finder/index.html",
+    "main.d63cc813.css.map": "/React_Router_Dog_Finder/static/css/main.d63cc813.css.map",
+    "main.6607d9bc.js.map": "/React_Router_Dog_Finder/static/js/main.6607d9bc.js.map",
+    "787.681c1c89.chunk.js.map": "/React_Router_Dog_Finder/static/js/787.681c1c89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d63cc813.css",
+    "static/js/main.6607d9bc.js"
+  ]
+}
